@@ -1,4 +1,11 @@
-# Hi, I'm Elizabeth López 👋
+# Hi, I'm [Elizabeth](https://github.com/aman-atg) 👋
+
+<p>
+I'm a Front End JavaScript Developer 🚀 from Peru. I've studied in Laboratoria, a Bootcamp who transform woman's life through technology. 
+</br>
+I consider myself a happy, positive person, easy to deal with, I strive to be an example for those around me and leave a positive mark on the planet. 
+</br>
+I'm currently looking for my first job as Front End Developer.
 
 <!--
 **eliza8855/eliza8855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
