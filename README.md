@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### Contact Me  
- [![Linkedin Badge](https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/elizabethlopezvalerin/)](https://www.linkedin.com/in/elizabethlopezvalerin/) 
- [![Gmail Badge](https://img.shields.io/badge/-elopezvalerin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elopezvalerin@gmail.com)](mailto:elopezvalerin@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Elizabeth_Lopez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elizabethlopezvalerin/)](https://www.linkedin.com/in/elizabethlopezvalerin/)
+[![Gmail Badge](https://img.shields.io/badge/-elopezvalerin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elopezvalerin@gmail.com)](mailto:elopezvalerin@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
