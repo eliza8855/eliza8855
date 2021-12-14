@@ -1,9 +1,12 @@
 # Hi, I'm [Elizabeth](https://github.com/eliza8855) 👋
+[![Linkedin Badge](https://img.shields.io/badge/-Elizabeth_Lopez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elizabethlopezvalerin/)](https://www.linkedin.com/in/elizabethlopezvalerin/)
+[![Gmail Badge](https://img.shields.io/badge/-elopezvalerin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elopezvalerin@gmail.com)](mailto:elopezvalerin@gmail.com)
 ![Pronouns](https://img.shields.io/badge/Pronouns-She%2FHer-brightgreen?style=flat)
+
 <p>
-I'm a Front End Developer 🚀 from Peru. I consider myself as an resilient, enthusiastic 
+I'm a Front End Javascript Developer 🚀 from Peru. I am very eager to start my journey to develop and contribute in the tech industry.
 </br>
- I just finished a Front End Developer Program at [Laboratoria](https://www.laboratoria.la/), and I'm looking for projects to contribute to and people to collaborate with! 
+I just finished a Front End Developer Program at [Laboratoria](https://www.laboratoria.la/), and I'm looking for projects to contribute to and people to collaborate with! 
 </br>
 
 <!--
@@ -22,8 +25,7 @@ Here are some ideas to get you started:
 -->
 
 ### Contact Me  
-[![Linkedin Badge](https://img.shields.io/badge/-Elizabeth_Lopez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elizabethlopezvalerin/)](https://www.linkedin.com/in/elizabethlopezvalerin/)
-[![Gmail Badge](https://img.shields.io/badge/-elopezvalerin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elopezvalerin@gmail.com)](mailto:elopezvalerin@gmail.com)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
