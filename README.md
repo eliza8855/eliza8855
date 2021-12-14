@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Elizabeth López 👋
 
 <!--
 **eliza8855/eliza8855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
