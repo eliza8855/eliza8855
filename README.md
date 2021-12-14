@@ -1,11 +1,10 @@
-# Hi, I'm [Elizabeth](https://github.com/aman-atg) 👋
-
+# Hi, I'm [Elizabeth](https://github.com/eliza8855) 👋
+![Pronouns](https://img.shields.io/badge/Pronouns-She%2FHer-brightgreen?style=flat)
 <p>
-I'm a Front End JavaScript Developer 🚀 from Peru. I've studied in Laboratoria, a Bootcamp who transform woman's life through technology. 
+I'm a Front End Developer 🚀 from Peru. I consider myself as an resilient, enthusiastic 
 </br>
-I consider myself a happy, positive person, easy to deal with, I strive to be an example for those around me and leave a positive mark on the planet. 
+ I just finished a Front End Developer Program at [Laboratoria](https://www.laboratoria.la/), and I'm looking for projects to contribute to and people to collaborate with! 
 </br>
-I'm currently looking for my first job as Front End Developer.
 
 <!--
 **eliza8855/eliza8855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
