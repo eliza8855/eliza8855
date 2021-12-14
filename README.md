@@ -34,9 +34,9 @@ I just finished a Front End Developer Program at [Laboratoria](https://www.labor
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-...
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=eliza8855&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=eliza8855&show_icons=true&theme=buefy)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
