@@ -41,5 +41,6 @@ I just finished a Front End Developer Program at [Laboratoria](https://www.labor
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+</br>
 Made with :heart: by [Elizabeth](https://github.com/eliza8855)
 
