@@ -1,9 +1,9 @@
 # Hi, I'm [Elizabeth](https://github.com/eliza8855) 👋
 ![Pronouns](https://img.shields.io/badge/Pronouns-She%2FHer-brightgreen?style=flat)
 
-<p style="text-align: center;">I'm a enthusiastic and self-driven Front End Javascript Developer 🚀 from Peru. I have a good command oh HTML, CSS and Vanilla Javascript, I'm currently focusing on Angular projects and broading my knowledge to back-end technologies.</p>
+<p style="text-align: center;">I'm an enthusiastic and self-driven Front End Javascript Developer 🚀 from Peru. I have a good command of HTML, CSS and vanilla Javascript, I'm currently focusing on Angular projects and broading my knowledge of Back-End technologies.</p>
 
-I just finished a Front End Developer Program at [Laboratoria](https://www.laboratoria.la/), an intense learning program for women where I had the honnor to be selected from more than 2000 applicants. I'm ready to start my journey in Tech as a Front-End or QA developer, If you have any offer or project in mind please feel free to contact me:
+I just finished a Front End Developer Program at [Laboratoria](https://www.laboratoria.la/)- an intense learning program for women - which I had the honor to be selected for from more than 2000 applicants. I'm ready to start my journey in tech as a Front-End or QA developer. If you have any offers or projects in mind, please feel free to contact me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Elizabeth_Lopez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elizabethlopezvalerin/)](https://www.linkedin.com/in/elizabethlopezvalerin/)
 [![Gmail Badge](https://img.shields.io/badge/-elopezvalerin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elopezvalerin@gmail.com)](mailto:elopezvalerin@gmail.com)
