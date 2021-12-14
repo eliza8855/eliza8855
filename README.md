@@ -8,57 +8,37 @@ I just finished a Front End Developer Program at [Laboratoria](https://www.labor
 [![Gmail Badge](https://img.shields.io/badge/-elopezvalerin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elopezvalerin@gmail.com)](mailto:elopezvalerin@gmail.com)
 ![Pronouns](https://img.shields.io/badge/Pronouns-She%2FHer-brightgreen?style=flat)
 
-<!--
-**eliza8855/eliza8855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 About Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### About
-
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** Python, C, JavaScript
--  **Hobbies :** Articles & Music :headphones:
--  **Fact :** First solve the problem, then write the code :heart: 
--  **Organization :** Technojam
+-  **Learning :** Angular :zap: | Advance Javascript
+-  **Languages :** Javascript, Typescript
+-  **Hobbies :** Learn languages, currently mastering english and learning French.
+-  **Fun Fact :** I love food!, the spicier the best :fire:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🛠 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vuejs-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=gray)
-![Rollup](https://img.shields.io/badge/-rollup.js-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/-Figma-563D7C?style=flat-square&logo=figma&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![PhothoShop](https://img.shields.io/badge/-PhotoShop-071D34?style=flat-square&logo=Adobe-Photoshop&logoColor=54A7F8)
-![Sketch](https://img.shields.io/badge/-Sketch-F7B500?style=flat-square&logo=sketch&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/-Sublime-4B4B4B?style=flat-square&logo=sublime-text&logoColor=FF9800)
+
 ...
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Isha2103&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=eliza8855&show_icons=true)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-⭐️ From [Isha Gupta](https://github.com/Isha2103)
+⭐️Made with  From [Elizabeth](https://github.com/eliza8855)
