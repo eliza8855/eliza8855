@@ -1,13 +1,12 @@
 # Hi, I'm [Elizabeth](https://github.com/eliza8855) 👋
+
+<p style="text-align: center;">I'm a enthusiastic and self-driven Front End Javascript Developer 🚀 from Peru. I have a good command oh HTML, CSS and Vanilla Javascript, I'm currently focusing on Angular projects and broading my knowledge to back-end technologies.</p>
+
+I just finished a Front End Developer Program at [Laboratoria](https://www.laboratoria.la/). I'm ready to start my journey in Tech, If you want any to offer or project in mind please feel free to contact me:
+
 [![Linkedin Badge](https://img.shields.io/badge/-Elizabeth_Lopez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elizabethlopezvalerin/)](https://www.linkedin.com/in/elizabethlopezvalerin/)
 [![Gmail Badge](https://img.shields.io/badge/-elopezvalerin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elopezvalerin@gmail.com)](mailto:elopezvalerin@gmail.com)
 ![Pronouns](https://img.shields.io/badge/Pronouns-She%2FHer-brightgreen?style=flat)
-
-<p>
-I'm a Front End Javascript Developer 🚀 from Peru. I am very eager to start my journey to develop and contribute in the tech industry.
-</br>
-I just finished a Front End Developer Program at [Laboratoria](https://www.laboratoria.la/), and I'm looking for projects to contribute to and people to collaborate with! 
-</br>
 
 <!--
 **eliza8855/eliza8855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,9 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Contact Me  
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
