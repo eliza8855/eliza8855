@@ -41,4 +41,4 @@ I just finished a Front End Developer Program at [Laboratoria](https://www.labor
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-⭐️Made with  From [Elizabeth](https://github.com/eliza8855)
+Made with :heart: From [Elizabeth](https://github.com/eliza8855)
